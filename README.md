@@ -1,2 +1,2 @@
-# Aryan
+# aryan
 A simple about page
