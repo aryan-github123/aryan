@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+a {
+    text-decoration: none;
+}
+
+textarea {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form {
+    margin-top: -25px;
+}
