@@ -9,8 +9,19 @@ a {
 
 textarea {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
 }
 
 form {
     margin-top: -25px;
+}
+
+input {
+    margin-bottom: 10px;
+    width: 180px;
+}
+
+button {
+    margin-top: 5px;
+    width: 80px;
 }

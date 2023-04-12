@@ -12,15 +12,16 @@ h3 {
 
 ul {
     margin-top: -5px;
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    margin-top: 5px;
 }
 
 img {
     border-radius: 50%;
-}
-
-ul {
-    display: inline-block;
-    text-align: left;
 }
 
 table {
