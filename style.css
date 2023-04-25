@@ -2,26 +2,36 @@ body {
     background-color: azure;
 }
 
-.head,
-.wap,
-.edu,
-.skills,
-h3 {
+#main {
     text-align: center;
 }
 
+.img {
+    border-radius: 50%;
+}
+
 ul {
-    margin-top: -5px;
+    margin-top: 10px;
     display: inline-block;
-    text-align: left;
+    list-style-type: none;
+    margin-right: 110px;
 }
 
 li {
-    margin-top: 5px;
+    display: inline;
+    margin: 0px 100px 0px 110px;
 }
 
-img {
-    border-radius: 50%;
+.image {
+    text-align: center;
+    height: 230px;
+    padding: 10px 40px 40px 30px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.wbpg {
+    width: 375px;
 }
 
 table {
@@ -41,4 +51,9 @@ table {
 a {
     text-decoration: none;
     color: blue;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+    color: red;
 }
