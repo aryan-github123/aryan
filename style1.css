@@ -25,3 +25,11 @@ button {
     margin-top: 5px;
     width: 80px;
 }
+
+a {
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+    color: red;
+}
